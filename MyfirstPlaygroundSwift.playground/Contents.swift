@@ -113,7 +113,7 @@ func ClassVsStruct(){
     myClass.myStr = "bbbb"
     
     var myStruct = MyStruct(str:"assd", bool: true)
-    myStruct.myStr = "bbbb"
+    myStruct.myStr = "bbb1"
     
     // copy on Write
     
