@@ -103,7 +103,7 @@ struct MyStruct{
     }
 }
 
-var ex = MyStruct(str:"assd", bool: true)
+var ex = MyStruct(str:"assadHello", bool: true)
 //ex.printOV()
 //ex.printV()
 
